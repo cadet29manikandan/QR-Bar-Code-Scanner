@@ -1,5 +1,4 @@
 # QR Bar Code Scanner
-QR Bar Code Scanner
 
 Copyright [2021] [ManikandanKRM]
 
